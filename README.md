@@ -1,5 +1,5 @@
 
-Certainly! Below is a sample README text for a report on probability and statistics. Feel free to modify it based on your specific report content and requirements.
+
 
 Probability and Statistics Report
 Overview
@@ -25,6 +25,8 @@ Applications
 5.3 Machine Learning
 Conclusion
 References
+
+
 Introduction
 Probability and Statistics play a crucial role in analyzing and interpreting data. Probability theory provides the foundation for making predictions in uncertain situations, while statistics involves the collection, analysis, interpretation, presentation, and organization of data.
 
